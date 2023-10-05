@@ -23,7 +23,7 @@ without a critical point and no change in power-law exponent $\epsilon$ of the A
 intact samples, which exhibit a significant decrease in $\epsilon$ before failure. Our findings imply that the presence or
 absence of large-scale heterogeneities play a significant role in our ability to predict compressive failure in rock.
 
-## Description
+## Project Description
 My research delves into the intricate behavior of rocks when subjected to an increase in significant stress, such as that experienced during geological events like earthquakes.
 The process by which rocks fracture under stress is far from straightforward; instead, it is quite a complex process. Imagine a piece of rock with tiny cracks within it. 
 As external pressure mounts, these cracks form, grow, and coalesce, releasing stored energy in a manner analogous to the distinct crackle noise when stepping on dry leaves.
@@ -36,5 +36,25 @@ The rock samples we used are all Westerly granite samples, and they are separate
 
 My findings reveal that the fracture patterns in rocks can vary substantially depending on their structural properties: Intact samples follow a failure process known as a critical failure, while the notched samples do not. This understanding carries significant implications for the prediction and mitigation of geological hazards like earthquakes and landslides, ultimately contributing to enhanced safety measures.
 
+## Folder Description
+
+### RawData 
+Contains the raw data obtained/received by the triaxial compression experiments.
+Each folder in raw data is a Westerly granite sample used in the analysis. Samples with an 'n' are the notched samples, the remaining are intact samples.
+Each sample folder contains two different datasets labeled: 'AE' for the acoustic emission data and 'MTS' for the force-time data.
+The dataset folders may either contain a .mat file or .txt file (this was how they were received).
+
+For the datasets 'AE,' the only data of interest is the time: 'Time', the adjusted amplitde: 'AdjAmp' for the energy, the 3-dimensional coordinates: 'x', 'y', and 'z', and the polarity: 'pol'.
+
+For the datasets 'MTS', the only data of interest is the time: 'Time', and the force: 'Force' or 'force'.
+
+### External_Code
+Contains fortran code in the form of the file: '2D_EM_continuum_p_val.f90' for the quick application of a 'Maximum likelihood estimate' method to determine the best power law exponent fit.
+
+The 'a.exe' file executes the fortran code from Jupyter.
+
+The only file of interest is the '2D_EM_continuum_p_val.f90' and the output file that ends with extension: '.EMap'. The remaining may be ignored for this project.
+
+## Main File
 
 

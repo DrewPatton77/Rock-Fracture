@@ -57,4 +57,7 @@ The only file of interest is the '2D_EM_continuum_p_val.f90' and the output file
 
 ## Main File
 
+### Rock_Fracture.ipynb
+Contains the entire code for the project. Further descriptions can be found within. 
+
 

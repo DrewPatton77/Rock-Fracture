@@ -1,4 +1,10 @@
-# Rock-Fracture
+# Large-scale heterogeneities can alter the characteristics of compressive failure and accelerated seismic release
+
+Authors: 
+Drew Patton -- Code, Analysis, and writer
+Joern Davidsen -- Supervisor and writer
+Thomas Goebel -- Experimenter and writer
+Grzegorz Kwiatek -- Experimenter and writer
 
 ## Abstract
 Externally stressed brittle rocks fail once the stress is sufficiently high. This failure is typically preceded by
@@ -26,4 +32,6 @@ The rock samples we used are all Westerly granite samples, and are separated bet
 My findings reveal that the fracture patterns in rocks can vary substantially depending on their structural properties: Intact samples follow a failure process known as a critical failure, in which
 the average energy accelerates. While the notched samples have a stationary average energy, yet still exhibit an accelerated increase in the energy.
 This understanding carries significant implications for the prediction and mitigation of geological hazards like earthquakes and landslides, ultimately contributing to enhanced safety measures.
+
+
 

@@ -1,9 +1,13 @@
 # Large-scale heterogeneities can alter the characteristics of compressive failure and accelerated seismic release
 
 Authors: 
+
 Drew Patton -- Code, Analysis, and writer
+
 Joern Davidsen -- Supervisor and writer
+
 Thomas Goebel -- Experimenter and writer
+
 Grzegorz Kwiatek -- Experimenter and writer
 
 ## Abstract

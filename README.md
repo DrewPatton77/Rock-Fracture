@@ -2,13 +2,13 @@
 
 Authors: 
 
-Drew Patton -- Code, Analysis, and writer
+Drew Patton      -- Code, Analysis, and writer
 
-Joern Davidsen -- Supervisor and writer
+Joern Davidsen   --      Supervisor and writer
 
-Thomas Goebel -- Experimenter and writer
+Thomas Goebel    --    Experimenter and writer
 
-Grzegorz Kwiatek -- Experimenter and writer
+Grzegorz Kwiatek --    Experimenter and writer
 
 ## Abstract
 Externally stressed brittle rocks fail once the stress is sufficiently high. This failure is typically preceded by

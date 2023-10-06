@@ -40,7 +40,7 @@ My findings reveal that the fracture patterns in rocks can vary substantially de
 
 ### RawData 
 Contains the raw data obtained/received by the triaxial compression experiments.
-Each folder in raw data is a Westerly granite sample used in the analysis. Samples with an 'n' are the notched samples, the remaining are intact samples.
+Each folder in raw data is a Westerly granite sample used in the analysis. Samples with an 'n' are the notched samples; the remaining are intact samples.
 Each sample folder contains two different datasets labeled: 'AE' for the acoustic emission data and 'MTS' for the force-time data.
 The dataset folders may either contain a .mat file or .txt file (this was how they were received).
 
